@@ -5519,6 +5519,15 @@ Map Area End
   border-color: #0071dc;
 }
 
+/* Brand logo sizing */
+.brand-logo-one,
+.brand-logo-two {
+  max-height: 70px;
+  width: auto;
+  object-fit: contain;
+  display: inline-block;
+}
+
 /*=================================
 Go Top Area 
 ====================================*/
